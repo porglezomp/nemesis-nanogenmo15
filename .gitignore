@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Book downloads
+raw-books/
+clean-books/
